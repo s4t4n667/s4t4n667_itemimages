@@ -1,5 +1,5 @@
 # s4t4n667-items
-Collection of item images for FiveM.
+Item images for FiveM.
 
 Collation of the best images from:
 - https://github.com/fazitanvir/items-images
