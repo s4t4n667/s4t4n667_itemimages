@@ -1,2 +1,7 @@
 # item-images
-Collection of item images for FiveM
+Collection of item images for FiveM.
+
+Collation the best images from:
+- https://github.com/fazitanvir/items-images
+- https://github.com/McKleans-Scripts/mk-items
+- Custom images
